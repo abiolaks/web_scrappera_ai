@@ -17,3 +17,6 @@ Key features include:
 * Afolabi
 * Enitan
 * Abiola
+
+## Git workflow
+Modify ----> Stage(git add filename) ----> commit(git commit -m "add change message) ----> push( git push origin)
