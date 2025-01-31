@@ -12,3 +12,8 @@ Key features include:
 * Azure OpenAi
 * Azure ML
 * Azure blob storange
+
+## Collaborators
+* Afolabi
+* Enitan
+* Abiola
